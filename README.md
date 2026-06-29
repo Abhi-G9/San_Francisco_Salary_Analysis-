@@ -77,13 +77,17 @@ A structured data cleaning process is therefore required to prepare the dataset 
 
 * **Employees with Zero Base Pay but Receiving Benefits:** A small number of employees were found with **zero Base Pay** while still receiving **Benefits**. These records may represent special payroll cases, part-time employment, or other compensation arrangements and may require further review.
 
+## 💡 Recommendations
 
-💡Recommendations
-Review high overtime departments such as Police, Fire, and Sheriff to understand the reasons for consistently high overtime payments and explore workforce planning opportunities.
-Monitor high salary outliers regularly to ensure employee compensation is aligned with job responsibilities and organizational pay policies.
-Review payroll records where employees have zero Base Pay but receive Benefits to verify that these records are accurate and follow payroll guidelines.
-Analyze job roles with the highest compensation to better understand salary structures and support future budgeting decisions.
-Track salary trends every year to evaluate payroll growth and improve long-term financial planning.
-Perform regular data quality checks to identify missing values, inconsistent records, and formatting issues before payroll analysis.
+## 💡 Recommendations
 
+- Review overtime usage in the Police, Fire, and Sheriff departments to understand the reasons for high overtime payments and identify opportunities for better workforce planning.
+
+- Review payroll records where employees receive Benefits despite having zero Base Pay to verify that these records are accurate.
+
+- Periodically review compensation for the highest-paying job roles to ensure salaries remain consistent with organizational pay policies.
+
+- Monitor year-wise salary trends to understand changes in employee compensation over time.
+
+- Regularly review employees identified as salary outliers to verify that their compensation is appropriate for their roles and responsibilities.
 
