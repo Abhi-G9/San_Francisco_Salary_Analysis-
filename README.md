@@ -20,18 +20,19 @@ A structured data cleaning process is therefore required to prepare the dataset 
 * Detect salary outliers and evaluate whether they represent valid business cases or potential anomalies.
 * Generate meaningful business insights and recommendations to support payroll analysis and workforce planning.
 
-📊 Dataset Description
-Feature	                         Details
-Dataset Name	                  San Francisco Employee Salaries
-Source	                        Kaggle
-Time Period                     2011 – 2014
-Total Records                 	148,654 Employee Salary Records
-Total Columns	                  13 (Before Cleaning)
-Key Features	                  EmployeeName, JobTitle, BasePay, OvertimePay, OtherPay, Benefits, TotalPay, TotalPayBenefits, Year, Agency
-Columns Removed                 Notes, Status (More than 99% missing values)
+## 📊 Dataset Description
 
-
-
+| Feature | Details |
+|----------|---------|
+| **Dataset Name** | San Francisco Employee Salaries |
+| **Source** | Kaggle |
+| **Time Period** | 2011–2014 |
+| **Total Records** | 148,654 Employee Salary Records |
+| **Total Columns (Before Cleaning)** | 13 |
+| **Key Features** | EmployeeName, JobTitle, BasePay, OvertimePay, OtherPay, Benefits, TotalPay, TotalPayBenefits, Year, Agency |
+| **Columns Removed** | Notes, Status (More than 99% missing values) |
+| **Currency** | US Dollar (USD) |
+| **Dataset Type** | Payroll / HR Analytics |
 
 ## 🛠️ Tools & Libraries Used
 
