@@ -31,8 +31,7 @@ A structured data cleaning process is therefore required to prepare the dataset 
 | **Total Columns (Before Cleaning)** | 13 |
 | **Key Features** | EmployeeName, JobTitle, BasePay, OvertimePay, OtherPay, Benefits, TotalPay, TotalPayBenefits, Year, Agency |
 | **Columns Removed** | Notes, Status (More than 99% missing values) |
-| **Currency** | US Dollar (USD) |
-| **Dataset Type** | Payroll / HR Analytics |
+
 
 ## 🛠️ Tools & Libraries Used
 
