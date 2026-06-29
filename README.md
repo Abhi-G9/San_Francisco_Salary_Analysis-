@@ -44,10 +44,6 @@ A structured data cleaning process is therefore required to prepare the dataset 
 | **Seaborn**          | Statistical data visualization and exploratory analysis.                |
 | **Jupyter Notebook** | Interactive environment for data cleaning, analysis, and visualization. |
 
-
-
-
-
 ## 📈 Key Findings & Insights
 
 * **Salary Distribution:** Most employees earn salaries in the lower to middle salary range, while only a few employees receive exceptionally high compensation.
@@ -76,8 +72,6 @@ A structured data cleaning process is therefore required to prepare the dataset 
 * **Employees with Overtime Pay Lower than Benefits:** Several employees received **higher benefits than overtime pay**, indicating that their total compensation relied more on benefits than overtime earnings.
 
 * **Employees with Zero Base Pay but Receiving Benefits:** A small number of employees were found with **zero Base Pay** while still receiving **Benefits**. These records may represent special payroll cases, part-time employment, or other compensation arrangements and may require further review.
-
-## 💡 Recommendations
 
 ## 💡 Recommendations
 
